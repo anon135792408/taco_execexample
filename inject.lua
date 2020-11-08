@@ -1,0 +1,1 @@
+if GetCurrentResourceName() == "spawnmanager" then

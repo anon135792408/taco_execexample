@@ -1,0 +1,7 @@
+C:\Users\Root\source\repos\TacoLuaExec\obj\Debug\TacoLuaExec.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\TacoLuaExec\obj\Debug\TacoLuaExec.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\TacoLuaExec\bin\Debug\mgfuJQwqJdXQa2xY.exe.config
+C:\Users\Root\source\repos\TacoLuaExec\bin\Debug\mgfuJQwqJdXQa2xY.exe
+C:\Users\Root\source\repos\TacoLuaExec\bin\Debug\mgfuJQwqJdXQa2xY.pdb
+C:\Users\Root\source\repos\TacoLuaExec\obj\Debug\mgfuJQwqJdXQa2xY.exe
+C:\Users\Root\source\repos\TacoLuaExec\obj\Debug\mgfuJQwqJdXQa2xY.pdb
